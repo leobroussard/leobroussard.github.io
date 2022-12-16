@@ -1,0 +1,38 @@
+
+Combination 1: Fare = 0; Buying Price = 5; Threshold = 1
+Combination 2 : Fare = 0; Buying Price = 5; Threshold = 0
+Combination 3: Fare = 0; Buying Price = 2.5; Threshold = 1
+Combination 4: Fare = 0; Buying Price = 2.5; Threshold = 0
+Combination 5: Fare = 0.5; Buying Price = 2.5; Threshold = 0.5
+Table 1. Transport Use
+Settings	Type of transport	Start	Maturity	Stabilisation
+Combination 1	Public 	3705	3147 (21)	3383
+ 	Car	0	574 (21)	337
+Combination 2	Public 	3703	2368 (19)	2540
+ 	Car	0	1350 (19)	1150
+Combination 3	Public 	3708	2616 (20)	2800
+ 	Car	0	1103 (20)	900
+Combination 4	Public 	3696	1956 (22)	1900
+ 	Car	0	1755 (22)	1900
+Combination 5	Public 	1826	3009 (13)	2700
+ 	Car	0	729 (47)	550
+Note. (.) represents the time (ticks in model) of the value.
+
+
+
+
+
+
+
+
+Combination 1.
+	   Table 1			  Table 2
+ 
+Combination 5
+
+                Table 9		                Table 10
+ 
+The results in Table 1. show that in the first combination, where the zero-fare policy is installed and the price someone should pay for a car as well as the perceived utility is high, the use of public transport rises and the use of cars declines compared to combination 5.
+Future studies could differentiate agents by their socio-economic background, in order to observe the best incentive for each group, since economic incentives impact the less wealthy the most. Moreover, more details could be added to the model, by describing the change in use of transports depending on the route such as communicating to work or for leisure, 
+
+
